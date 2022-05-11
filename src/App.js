@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h3>This is a Sample react App</h3>
+        <h3>This is a Sample Sandeep react App</h3>
       </div>
     </div>
   );
